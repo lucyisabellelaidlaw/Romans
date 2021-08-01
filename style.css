@@ -23,3 +23,7 @@ p {
 a {
   color: white;
 }
+
+.bible-text {
+  text-align: left;
+}
