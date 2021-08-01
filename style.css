@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to right, #048C97, #04977C);
+  font-family: helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 16pt;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+p {
+  font-size: 12pt;
+  width: 400px;
+  margin: 20px auto;
+}
+
+a {
+  color: white;
+}
